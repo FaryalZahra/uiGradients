@@ -1339,5 +1339,9 @@
     {
         "name": "Grade Grey",
         "colors": ["#bdc3c7","#2c3e50"]
+    },
+    {
+        "name": "Faryal Zahra",
+        "colors": ["#f5f5f5", "#080400", "#c8230d"] 
     }
 ]
